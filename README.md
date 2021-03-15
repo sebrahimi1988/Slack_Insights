@@ -1,2 +1,2 @@
-# jikjik
-Data Science fun with Persian Twitter
+# Slack NLP
+NLP on Slack messages
